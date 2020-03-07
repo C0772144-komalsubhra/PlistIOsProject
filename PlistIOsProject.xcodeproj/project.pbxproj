@@ -13,6 +13,7 @@
 		9B0ABF8224130FBD0039627F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0ABF8024130FBD0039627F /* Main.storyboard */; };
 		9B0ABF8424130FBF0039627F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0ABF8324130FBF0039627F /* Assets.xcassets */; };
 		9B0ABF8724130FBF0039627F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0ABF8524130FBF0039627F /* LaunchScreen.storyboard */; };
+		9B0ABF8F241310800039627F /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B0ABF8E241310800039627F /* Property List.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B0ABF8324130FBF0039627F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B0ABF8624130FBF0039627F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B0ABF8824130FBF0039627F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B0ABF8E241310800039627F /* Property List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9B0ABF8324130FBF0039627F /* Assets.xcassets */,
 				9B0ABF8524130FBF0039627F /* LaunchScreen.storyboard */,
 				9B0ABF8824130FBF0039627F /* Info.plist */,
+				9B0ABF8E241310800039627F /* Property List.plist */,
 			);
 			path = PlistIOsProject;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				9B0ABF8724130FBF0039627F /* LaunchScreen.storyboard in Resources */,
 				9B0ABF8424130FBF0039627F /* Assets.xcassets in Resources */,
+				9B0ABF8F241310800039627F /* Property List.plist in Resources */,
 				9B0ABF8224130FBD0039627F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
